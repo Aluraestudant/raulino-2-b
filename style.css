@@ -1,0 +1,109 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #4A28AD;
+    font-family: 'Poppins', sans-serif;
+}
+.cabecalho {
+    background-color: #383D58;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 24px 0;
+    
+}
+
+.cabecalho-imagem{
+    width: 10%;
+}
+
+.escola-texto-um{
+    margin-bottom: 90px;
+}
+
+.estudante-titulo{
+    text-align: center;
+    justify-content: center;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 16px;
+    margin-left: 70px;
+}
+
+.cabecalho-lista-item a{
+    text-decoration: none; 
+    color: white;
+}
+
+.escola-imagem{
+    width: 15%;
+}
+
+#escola{
+    background-image: linear-gradient(#000000  ,#2D158C);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.escola-div-conteudo{
+    width: 35%;
+}
+
+
+.escola-titulo{
+    margin: 12px;
+    padding-top: 90px;
+    padding: 24px 0;
+    margin-bottom: 40px;
+}
+
+#estudante{
+    padding-left: 100px;
+    margin-top: 50px;
+    margin: 70px;
+    
+}
+
+.estudantes-todos{
+    margin-bottom: 40px;
+}
+
+.estudante-nome{
+    
+    box-sizing: border-box;
+    border: 2px solid #000000; 
+}
+
+.professor{
+    
+display: flex;
+gap: 15px;
+margin-bottom: 15px;
+margin-left: 30px;
+
+
+}
+
+.border{
+
+    max-width: 700px;
+
+}
+
+
+
+.imagem img{
+border-radius: 4px;
+
+    width: 100px;
+    height: 100px;
+}
+
